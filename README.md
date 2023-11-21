@@ -10,11 +10,11 @@ semestre deste ano que aconteceram na Bélgica, Itália, Cingapura, Malásia e J
 
 <p><Strong>PÚBLICO</Strong></p>
 
-<p>Crie um vetor e carregue os nomes dos pilotos</p>
+<p>Crie um vetor e carregue os nomes dos pilotos.</p>
 
 <p><Strong>MAIN</Strong></p>
 
-<p>Crie um vetor e carregue os PAÍSES dos GP´s</p>
+<p>Crie um vetor e carregue os PAÍSES dos GP´s.</p>
 
 <p><Strong>A.</Strong> Crie um método Relatório Gerencial que recebe como parâmetro o vetor com o nome dos países. O
 método deverá ter como objetivo exibir o retorno das funções chamadas no mesmo. O método deverá ser
